@@ -31,3 +31,4 @@ JOIN Department d
 ON e.DepartmentId = d.Id 
 WHERE `rank` <=3
 ```
+#### Link do exercício: <https://leetcode.com/problems/department-top-three-salaries>
